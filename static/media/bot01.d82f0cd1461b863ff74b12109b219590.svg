@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="bottom01" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 137 120">
+  <defs>
+    <style>
+      <!-- .color-4 {
+        fill: #ffcf08;
+      }
+
+      .cls-2 {
+        fill: #ff6836;
+      }
+
+      .cls-3 {
+        fill: #404272;
+      }
+
+      .cls-4 {
+        fill: #2aaeb3;
+      }
+
+      .stroke-width stroke-linecap stroke-color-4 {
+        fill: none;
+        stroke: #ffcf08;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: .5px;
+      } -->
+      .stroke-width {
+        stroke-width: .5px;
+      }
+
+      .stroke-linecap{
+        stroke-linecap: round;
+      }
+
+      .stroke-color-1 {
+        stroke: #ff6836;
+      }
+
+      .stroke-color-2 {
+        stroke: #2aaeb3;
+      }
+
+      .stroke-color-3 {
+        stroke: #404272;
+      }
+
+      .stroke-color-4 {
+        stroke: #ffcf08;
+      }      
+    </style>
+    <linearGradient id="color-1" gradientTransform="rotate(90)">
+      <stop offset="0%" stop-color="#ff6836" />
+      <stop offset="100%" stop-color="#ff6836" />
+      <stop offset="100%" stop-color="white" />
+    </linearGradient>
+    <linearGradient id="color-2" gradientTransform="rotate(90)">
+      <stop offset="0%" stop-color="#2aaeb3" />
+      <stop offset="100%" stop-color="#2aaeb3" />
+      <stop offset="100%" stop-color="white" />
+    </linearGradient>
+    <linearGradient id="color-3" gradientTransform="rotate(90)">
+      <stop offset="0%" stop-color="#404272" />
+      <stop offset="100%" stop-color="#404272" />
+      <stop offset="100%" stop-color="white" />
+    </linearGradient>
+    <linearGradient id="color-4" gradientTransform="rotate(90)">
+      <stop offset="0%" stop-color="#ffcf08" />
+      <stop offset="100%" stop-color="#ffcf08" />
+      <stop offset="100%" stop-color="white" />
+    </linearGradient>    
+  </defs>
+  <path class="stroke-width stroke-linecap stroke-color-4" d="m36.78,43.91l-5.69.02s-4.37-.33-4.37-4.16c0,0-.31-4.36,7.59-4.36,12.44,0,57.52,30.81,64.94,59.69" fill="none"/>
+  <path class="stroke-width stroke-linecap stroke-color-4" d="m89.79,38.79l12.53-.77s7.42-1.47,7.42,3.03c0,0,.55,4.89-17.38,8.02-11.78,2.05-50.89,21.11-54.02,45.21" fill="none"/>
+  <path class="stroke-width stroke-linecap stroke-color-4" d="m28.64,68.7s-1.79,13.24,5.87,12.22c0,0,6.52-.15,6.52-9.03s2.1-13.95,7.59-13.95,5.01,12.9,5.01,12.9c0,0,.81,7.47,6.13,7.47s10.18-1.71,14.94-5.86c4.76-4.14,3.95-13.28,13.63-14.52,9.69-1.24,6.66,12.9,6.66,12.9,0,0-3.79,13.23,3.42,12.53" fill="none"/>
+  <path class="color-4" d="m105.58,94.46H34.3s-1.96-.46-1.96,1.56c0,1.25,1.2,4.55-1.16,4.55h71.27s1.96.16,1.96-1.56c0-1.25-1.2-4.55,1.16-4.55Z" fill="url(#color-4)"/>
+  <path class="color-4" d="m72.47,22.54s.14-1.96-1.56-1.96c-1.25,0-4.55,1.2-4.55-1.16v75.04h6.11V22.54Z" fill="url(#color-4)"/>
+  <path class="color-2" d="m110.33,67.55v-11.01c-.53,4.42-2.93,4.86-3.25,4.9H31.75c-.31-.04-2.72-.48-3.25-4.9v11.01h0v4.9c.55-4.6,3.12-4.89,3.27-4.9h75.29c.14.01,2.72.29,3.27,4.9v-4.9Z" fill="url(#color-2)"/>
+  <path class="color-3" d="m110.54,77.93c0,3.17-2.57,5.74-5.74,5.74h-7.3c.41-.06,1.56-.69,1.56-5.74,0-3.17,2.57-5.74,5.74-5.74s5.74,2.57,5.74,5.74Z" fill="url(#color-3)"/>
+  <path class="color-1" d="m103.37,37.98H38.38s-1.96-.26-1.96,1.56c0,1.25,1.2,4.55-1.16,4.55h64.99s1.96-.31,1.96-1.56-1.2-4.55,1.16-4.55Z" fill="url(#color-1)"/>
+</svg>

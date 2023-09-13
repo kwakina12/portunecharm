@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 137 120">
+  <defs>
+    <style>
+      .stroke-width {
+        stroke-width: .5px;
+      }
+
+      .stroke-color-1 {
+        stroke: #fa4013;
+      }
+
+      .stroke-color-2 {
+        stroke: #9cd323;
+      }
+
+      .stroke-color-3 {
+        stroke:#404272;
+      }
+
+      .stroke-color-4 {
+        stroke: #ffffff;
+      }      
+    </style>
+    <linearGradient id="color-1" gradientTransform="rotate(90)">
+      <stop offset="0%" stop-color="#fa4013" />
+      <stop offset="100%" stop-color="#fa4013" />
+      <stop offset="100%" stop-color="white" />
+    </linearGradient>
+    <linearGradient id="color-2" gradientTransform="rotate(90)">
+      <stop offset="0%" stop-color="#9cd323" />
+      <stop offset="100%" stop-color="#9cd323"/>
+      <stop offset="100%" stop-color="white" />
+    </linearGradient>
+    <linearGradient id="color-3" gradientTransform="rotate(90)">
+      <stop offset="0%" stop-color="#404272" />
+      <stop offset="100%" stop-color="#404272" />
+      <stop offset="100%" stop-color="white" />
+    </linearGradient>   
+    <linearGradient id="color-4" gradientTransform="rotate(90)">
+      <stop offset="0%" stop-color="#ffffff" />
+      <stop offset="100%" stop-color="#ffffff" />
+      <stop offset="100%" stop-color="white" />
+    </linearGradient>  
+  </defs>
+    <path class="color-2" d="m123.64,33c2.21,0,4-1.79,4-4s-1.79-4-4-4-4,1.79-4,4,1.79,4,4,4Z" fill="url(#color-2)"/>
+    <path class="color-1" d="m52.18,109.82c2.21,0,4-1.79,4-4s-1.79-4-4-4-4,1.79-4,4,1.79,4,4,4Z" fill="url(#color-1)"/>
+    <path class="color-3" d="m116.38,23.83c1.66,0,3-1.34,3-3s-1.34-3-3-3-3,1.34-3,3,1.34,3,3,3Z" fill="url(#color-3)"/>
+    <path class="color-1" d="m13.7,110.27c-4.5,0-8.32-3.47-8.68-8.03-.39-4.8,3.2-9,8-9.39,6.44-.52,11.03-2.4,13.65-5.6,3.25-3.97,2.86-9.22,2.86-9.27-.57-4.78,2.84-9.12,7.62-9.69,4.78-.57,9.12,2.84,9.69,7.62.15,1.27,1.26,12.7-6.68,22.39-5.75,7.02-14.41,11.04-25.75,11.94-.23.02-.47.03-.7.03Z" fill="url(#color-1)"/>
+    <path class="color-1" d="m24.25,38.07c5.82,0,10.53-4.72,10.53-10.53s-4.72-10.53-10.53-10.53-10.53,4.72-10.53,10.53,4.72,10.53,10.53,10.53Z" fill="url(#color-1)"/>
+    <path class="color-2" d="m24.25,67.72c5.82,0,10.53-4.72,10.53-10.53s-4.72-10.53-10.53-10.53-10.53,4.72-10.53,10.53,4.72,10.53,10.53,10.53Z" fill="url(#color-2)"/>
+    <path class="color-1" d="m79.97,20.83c2.99,0,5.62,1.58,7.09,3.94,3.83-1.01,7.52-2.36,10.5-4.16,4.12-2.49,5.43-7.85,2.94-11.97-2.49-4.12-7.85-5.43-11.97-2.94-4.95,3-17.56,4.52-24.94,4.64-4.81.07-8.65,4.04-8.58,8.85.07,4.77,3.96,8.59,8.72,8.59h.13c.81-.01,3.87-.08,7.98-.46.85-3.71,4.17-6.49,8.14-6.49Z" fill="url(#color-1)"/>
+    <path class="color-1" d="m112.91,39.94v.98c.04-.32.07-.65.07-.98,0-4.61-3.74-8.35-8.35-8.35h-.07c4.61,0,8.35,3.74,8.35,8.35Z" fill="url(#color-1)"/>
+    <path fill="#ffffff" class="color-5" d="m96.2,48.29v-8.35c0-4.61,3.74-8.35,8.35-8.35h-16.23v16.71h7.88Z"/>
+    <path fill="#ffffff" class="color-5" d="m60.39,31.59c-4.61,0-8.35,3.74-8.35,8.35s3.74,8.35,8.35,8.35h11.22v-16.71h-11.22Z"/>
+    <path class="color-1" d="m60.39,66.61c-4.61,0-8.35,3.74-8.35,8.35s3.74,8.36,8.35,8.36h11.22v-16.71h-11.22Z" fill="url(#color-1)"/>
+    <path class="color-1" d="m96.2,75.49v-8.88h-7.88v16.71h13.35c-3.2-1.18-5.48-4.24-5.48-7.83h0Z" fill="url(#color-1)"/>
+    <path class="color-1" d="m112.87,76.18c.06-.4.09-.8.09-1.21,0-.33-.02-.66-.07-.98v1.5c0,.23-.01.46-.04.69h0Z" fill="url(#color-1)"/>
+    <path class="color-1" d="m104.61,48.29h-8.42v4.08h16.71v-11.44c-.49,4.15-4.01,7.37-8.29,7.37h0Z" fill="url(#color-1)"/>
+    <path class="color-1" d="m104.61,83.32h-2.94c.9.33,1.87.52,2.88.52,4.38,0,7.97-3.37,8.32-7.66-.59,4.04-4.05,7.14-8.26,7.14h0Z" fill="url(#color-1)"/>
+    <path class="color-1" d="m96.2,66.61h8.42c4.28,0,7.8,3.23,8.29,7.37v-11.44h-16.71v4.08h0Z" fill="url(#color-1)"/>
+    <path class="color-3" d="m96.2,39.94v8.35h8.42c4.28,0,7.8-3.23,8.29-7.37v-.98c0-4.61-3.74-8.35-8.35-8.35s-8.35,3.74-8.35,8.35Z" fill="url(#color-3)"/>
+    <path class="color-3" d="m104.61,66.61h-8.42v8.88c0,3.6,2.28,6.66,5.48,7.83h2.94c4.2,0,7.67-3.1,8.26-7.14.02-.23.04-.46.04-.69v-1.5c-.49-4.15-4.01-7.37-8.29-7.37h0Z" fill="url(#color-3)"/>
+    <path class="color-1" d="m88.32,62.54h-16.71v4.08h16.71v-4.08Z" fill="url(#color-1)"/>
+    <path class="color-1" d="m88.32,29.19c0-1.62-.47-3.13-1.26-4.41-5.29,1.39-10.85,2.14-15.23,2.54-.14.6-.22,1.23-.22,1.87v2.4h16.71v-2.4Z" fill="url(#color-1)"/>
+    <path class="color-1" d="m71.61,107.21c0,4.61,3.74,8.35,8.35,8.35s8.35-3.74,8.35-8.35v-23.89h-16.71v23.89Z" fill="url(#color-1)"/>
+    <path class="color-1" d="m88.32,48.29h-16.71v4.08h16.71v-4.08Z" fill="url(#color-1)"/>
+    <path class="color-3" d="m79.97,20.83c-3.97,0-7.29,2.78-8.14,6.49,4.38-.4,9.94-1.15,15.23-2.54-1.47-2.37-4.09-3.94-7.09-3.94Z" fill="url(#color-3)"/>
+    <path class="color-3" d="m88.32,31.59h-16.71v16.71h16.71v-16.71Z" fill="url(#color-3)"/>
+    <path class="color-3" d="m88.32,66.61h-16.71v16.71h16.71v-16.71Z" fill="url(#color-3)"/>
+    <path class="color-2" d="m42.48,52.37c-2.81,0-5.09,2.27-5.09,5.09s2.27,5.09,5.09,5.09h29.13v-10.17h-29.13Z" fill="url(#color-2)"/>
+    <path class="color-2" d="m96.2,52.37h-7.88v10.17h7.88v-10.17Z" fill="url(#color-2)"/>
+    <path class="color-2" d="m125.64,52.37h-12.74v10.17h12.74c2.81,0,5.09-2.27,5.09-5.09s-2.27-5.09-5.09-5.09Z" fill="url(#color-2)"/>
+    <path class="color-3" d="m112.91,52.37h-16.71v10.17h16.71v-10.17Z" fill="url(#color-3)"/>
+    <path class="color-3" d="m88.32,52.37h-16.71v10.17h16.71v-10.17Z" fill="url(#color-3)"/>
+    <path fill="#ffffff" class="color-5" d="m54.49,33.98h4.1c1.77,0,3.21-1.44,3.21-3.21s-1.44-3.21-3.21-3.21h-4.1c-1.77,0-3.21,1.44-3.21,3.21s1.44,3.21,3.21,3.21Z"/>
+    <path fill="#ffffff" class="color-5" d="m29.3,33.98h16.8c1.77,0,3.21-1.44,3.21-3.21s-1.44-3.21-3.21-3.21h-16.8c-1.77,0-3.21,1.44-3.21,3.21s1.44,3.21,3.21,3.21Z"/>
+    <path fill="#ffffff" class="color-5" d="m84.26,94.35h18.66c1.77,0,3.21,1.44,3.21,3.21s-1.44,3.21-3.21,3.21h-.27s-1.02.12-1.02.98c0,.24.09.41.2.55h11.33c1.77,0,3.21,1.44,3.21,3.21s-1.44,3.21-3.21,3.21h-18.66c-1.77,0-3.21-1.44-3.21-3.21s1.44-3.21,3.21-3.21h2.73c.09-.13.16-.3.16-.53,0-.98-1.1-1-1.1-1h-12.04c-1.77,0-3.21-1.44-3.21-3.21s1.44-3.21,3.21-3.21h0Z"/>
+</svg>

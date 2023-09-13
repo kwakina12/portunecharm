@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="top09" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 179 137">
+  <defs>
+    <style>
+      .stroke-width {
+        stroke-width: .5px;
+      }
+
+      .stroke-linecap{
+        stroke-linecap: round;
+      }
+
+      .stroke-color-1 {
+        stroke: #ffcf08;
+      }
+
+      .stroke-color-2 {
+        stroke: #fea39c;
+      }
+
+      .stroke-color-3 {
+        stroke:#327eed;
+      }
+
+      .stroke-color-4 {
+        stroke: #2032ac;
+      }      
+    </style>
+    <linearGradient id="color-1" gradientTransform="rotate(90)">
+      <stop offset="0%" stop-color="#ffcf08" />
+      <stop offset="100%" stop-color="#ffcf08" />
+      <stop offset="100%" stop-color="white" />
+    </linearGradient>
+    <linearGradient id="color-2" gradientTransform="rotate(90)">
+      <stop offset="0%" stop-color="#fea39c" />
+      <stop offset="100%" stop-color="#fea39c" />
+      <stop offset="100%" stop-color="white" />
+    </linearGradient>
+    <linearGradient id="color-3" gradientTransform="rotate(90)">
+      <stop offset="0%" stop-color="#327eed" />
+      <stop offset="100%" stop-color="#327eed" />
+      <stop offset="100%" stop-color="white" />
+    </linearGradient>   
+    <linearGradient id="color-4" gradientTransform="rotate(90)">
+      <stop offset="0%" stop-color="#2032ac" />
+      <stop offset="100%" stop-color="#2032ac" />
+      <stop offset="100%" stop-color="white" />
+    </linearGradient>    
+  </defs>
+  <path class="stroke-width stroke-linecap stroke-color-3" d="m130.9,82.29c-26.75-12.12-28.94-31.97-28.94-31.97,0,0,18.3.05,22.6.05,5.24,0,5.24-4.24,5.24-4.24.01-4.45-5.05-3.6-5.05-3.6" fill="none"/>
+  <path class="stroke-width stroke-linecap stroke-color-3" d="m129.5,55.92s13.76-2.11,13.76,6.13c0,0,.19,4.39-5.39,4.39h-9.56s-4.98.17-4.98,4.51c0,0-.15,3.35,4.98,3.35h14.94s6.35-.74,6.35,5.42,6.54,6.54,6.54,6.54c0,0,2.89.39,2.89,4.04,0,0-.19,4.42-3.28,4.42h-51.96s-7.7.14-7.7,6.92c0,0-.19,6.94,7.7,6.94h11.4c3.21,0,7.18-.66,9.98,1.26,1.34.92,2.27,2.43,2.48,4.05.51,3.86-2.38,6.23-5.97,6.23h-28.82s-7.4.32-6.56-3.86" fill="none"/>
+  <path class="stroke-width stroke-linecap stroke-color-3" d="m55,32.14s-4.1-.6-4.1-4.35-.8-7.81,5.12-9.97c0,0,1.44-.88,5.05-.93,3.61-.05,19.75,0,19.75,0,0,0,7.82-.96,4.32,9.98" fill="none"/>
+  <path class="color-1" d="m125.91,82.43H55.55s-1.71-.01-1.71,1.64c0,1.31,1.04,4.78-1.01,4.78h70.37s1.94,0,1.72-1.81c-.16-1.33-1.06-4.62,1-4.62Z" fill="url(#color-1)"/>
+  <path class="color-3" d="m125.91,31.61H52.83c2.05,0,1.01,3.48,1.01,4.78s1.71,1.64,1.71,1.64h67.65s1.71-.33,1.71-1.64-1.04-4.78,1.01-4.78Z" fill="url(#color-3)"/>
+  <path class="color-3" d="m130.9,55.68H47.85c2.05,0,1.01,3.48,1.01,4.78s1.71,1.64,1.71,1.64h77.61s1.71-.33,1.71-1.64-1.04-4.78,1.01-4.78h0Z" fill="url(#color-3)"/>
+  <path class="color-3" d="m92.58,114.53v-52.44h-6.42v55.15c0-2.05,3.48-1.01,4.78-1.01,1.73,0,1.64-1.71,1.64-1.71Z" fill="url(#color-3)"/>
+  <path class="color-3" d="m120.43,71.26h-62.1c2.05,0,1.01,3.48,1.01,4.78s1.71,1.64,1.71,1.64h56.67s1.71-.33,1.71-1.64-1.04-4.78,1.01-4.78h0Z" fill="url(#color-3)"/>
+  <path class="color-3" d="m151.96,50.03s-.14-2.26-5.49-2.26c0,0-2.74-.29-3.54-2.16,0,0,.79,3.54,1.13,4.42,0,0,5.3,17.67,4.02,25.58l-.29,1.12c-.23.49-.52,1.16-1.44,1.52-4.7,1.48-22.81,5.17-40.94-18.1,0,0,7.03,17.81,20.27,23.81,13.24,5.99,22.01-6.54,22.01-6.54,0,0,6.57-6.55,4.26-27.39Z" fill="url(#color-3)"/>
+  <path class="color-2" d="m125.91,42.4H52.83c2.05,0,1.01,3.48,1.01,4.78s1.71,1.64,1.71,1.64h67.65s1.71-.33,1.71-1.64-1.04-4.78,1.01-4.78Z" fill="url(#color-2)"/>
+  <path class="color-4" d="m71.17,57.54c-13.86,22.86-29.91,27.64-29.91,27.64-15.96,1.23-12.97-46.27-12.97-46.27l.14-4.42c0,1.59-2.81,2.24-5.7,2.24s-2.96,2.19-2.96,2.19c4.47,51.58,21.77,46.73,21.77,46.73,30.92-3.35,37.23-28.1,37.23-28.1,5.89-15.06,7.23-37.49,7.23-37.49-2.02,19.47-14.84,37.49-14.84,37.49h0Z" fill="url(#color-4)"/>
+</svg>

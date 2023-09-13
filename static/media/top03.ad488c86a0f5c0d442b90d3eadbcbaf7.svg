@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 179 137">
+  <defs>
+    <style>
+      .stroke-width {
+        stroke-width: 1px;
+      }
+
+      .stroke-color-1 {
+        stroke: #ffcf08;
+      }
+
+      .stroke-color-2 {
+        stroke: #ff6836;
+      }
+
+      .stroke-color-3 {
+        stroke: #404272;
+      }
+
+      .stroke-color-4 {
+        stroke: #2aaeb3;
+      }
+    </style>
+    <linearGradient id="color-1" gradientTransform="rotate(90)">
+      <stop offset="0%" stop-color="#ffcf08" />
+      <stop offset="100%" stop-color="#ffcf08" />
+      <stop offset="100%" stop-color="white" />
+    </linearGradient>
+    <linearGradient id="color-2" gradientTransform="rotate(90)">
+      <stop offset="0%" stop-color="#ff6836" />
+      <stop offset="100%" stop-color="#ff6836" />
+      <stop offset="100%" stop-color="white" />
+    </linearGradient>
+    <linearGradient id="color-3" gradientTransform="rotate(90)">
+      <stop offset="0%" stop-color="#404272" />
+      <stop offset="100%" stop-color="#404272" />
+      <stop offset="100%" stop-color="white" />
+    </linearGradient>
+    <linearGradient id="color-4" gradientTransform="rotate(90)">
+      <stop offset="0%" stop-color="#2aaeb3" />
+      <stop offset="100%" stop-color="#2aaeb3" />
+      <stop offset="100%" stop-color="white" />
+    </linearGradient>
+  </defs>
+    <path class="color-2" d="m24.78,43.32c1.66,0,3-1.34,3-3s-1.34-3-3-3-3,1.34-3,3,1.34,3,3,3Z" fill="url(#color-2)"/>
+    <path class="color-3" d="m154.1,64.56c2.21,0,4-1.79,4-4s-1.79-4-4-4-4,1.79-4,4,1.79,4,4,4Z" fill="url(#color-3)"/>
+    <path class="color-4" d="m143.47,59.56c1.66,0,3-1.34,3-3s-1.34-3-3-3-3,1.34-3,3,1.34,3,3,3Z" fill="url(#color-4)"/>
+    <path class="color-2" d="m118.23,121.08c1.66,0,3-1.34,3-3s-1.34-3-3-3-3,1.34-3,3,1.34,3,3,3Z" fill="url(#color-2)"/>  
+    <path class="color-2" d="m77.22,74.79c-3.34,5.61-7.18,11.35-11.6,17.01h48.64c-6.2-6.96-10.52-13.1-13.05-17.01h-23.99Z" fill="url(#color-2)"/>
+    <path class="color-1" d="m33.28,74.79c-4.7,0-8.51,3.81-8.51,8.51s3.81,8.51,8.51,8.51h8.78c5.32-5.49,9.95-11.24,13.96-17.01h-22.74Z" fill="url(#color-1)"/>
+    <path class="color-1" d="m139.46,91.8h5c4.7,0,8.51-3.81,8.51-8.51s-3.81-8.51-8.51-8.51h-21.31c4.06,5.06,9.5,11.06,16.32,17.01h0Z" fill="url(#color-1)"/>
+    <path class="color-1" d="m151.55,101.12c-4.42-2.99-8.45-6.15-12.09-9.32h-25.2c6.82,7.66,15.89,16.29,27.35,24.03,1.52,1.03,3.25,1.52,4.96,1.52,2.85,0,5.64-1.37,7.36-3.91,2.74-4.06,1.68-9.58-2.39-12.32h0Z" fill="url(#color-1)"/>
+    <path class="color-1" d="m98.53,70.37c.13.25,1.03,1.86,2.68,4.42h21.94c-3.71-4.62-6.26-8.43-7.69-10.69h-17.76c-.48,2.05-.25,4.28.84,6.28h0Z" fill="url(#color-1)"/>
+    <path class="color-4" d="m123.15,74.79h-21.94c2.53,3.91,6.85,10.05,13.05,17.01h25.2c-6.82-5.95-12.26-11.95-16.32-17.01Z" fill="url(#color-4)"/>
+    <path class="color-1" d="m53.21,26.36c-4.7,0-8.51,3.81-8.51,8.51s3.81,8.51,8.51,8.51h19.64c2.8-6.95,4.64-12.88,5.78-17.01h-25.42Z" fill="url(#color-1)"/>
+    <path class="color-1" d="m124.53,43.38c4.7,0,8.51-3.81,8.51-8.51s-3.81-8.51-8.51-8.51h-27.57c-.78,3.41-2.34,9.42-5.04,17.01h32.61Z" fill="url(#color-1)"/>
+    <path class="color-2" d="m97.69,64.09c.56-2.37,2.08-4.5,4.39-5.76,4.3-2.34,9.68-.75,12.03,3.54.02.04.47.85,1.34,2.23h9.08c4.7,0,8.51-3.81,8.51-8.51s-3.81-8.51-8.51-8.51h-33.97c-1.97,5.18-4.44,10.94-7.48,17.01h14.62Z" fill="url(#color-2)"/>
+    <path class="color-1" d="m102.08,58.33c-2.31,1.26-3.82,3.39-4.39,5.76h17.76c-.87-1.38-1.32-2.18-1.34-2.23-2.34-4.29-7.73-5.88-12.03-3.54h0Z" fill="url(#color-1)"/>
+    <path class="color-2" d="m53.21,47.08c-4.7,0-8.51,3.81-8.51,8.51s3.81,8.51,8.51,8.51h9.59c3.42-5.94,6.23-11.71,8.51-17.01h-18.1Z" fill="url(#color-2)"/>
+    <path class="color-3" d="m83.08,64.09h-20.28c-2.03,3.53-4.29,7.12-6.77,10.69h21.2c2.16-3.63,4.1-7.21,5.85-10.69Z" fill="url(#color-3)"/>
+    <path class="color-1" d="m25.96,105.75c-3.98,2.86-4.88,8.41-2.02,12.39,1.73,2.41,4.45,3.69,7.21,3.69,1.8,0,3.61-.54,5.18-1.67,11.83-8.51,21.46-18.32,29.3-28.36h-23.56c-4.79,4.94-10.13,9.66-16.1,13.96h0Z" fill="url(#color-1)"/>
+    <path class="color-4" d="m56.02,74.79c-4.01,5.77-8.64,11.52-13.96,17.01h23.56c4.42-5.66,8.26-11.4,11.6-17.01h-21.2Z" fill="url(#color-4)"/>
+    <path class="color-3" d="m97.61,23.34c.88-4.81-2.31-9.43-7.13-10.32-4.82-.89-9.44,2.3-10.33,7.12-.02.11-.47,2.4-1.52,6.23h18.34c.38-1.69.58-2.74.64-3.03h0Z" fill="url(#color-3)"/>
+    <path class="color-3" d="m91.92,43.38h-19.07c-.49,1.21-1,2.44-1.55,3.71h19.26c.48-1.27.93-2.51,1.36-3.71Z" fill="url(#color-3)"/>
+    <path class="color-4" d="m96.96,26.36h-18.34c-1.14,4.13-2.98,10.06-5.78,17.01h19.07c2.69-7.59,4.25-13.6,5.04-17.01Z" fill="url(#color-4)"/>
+    <path class="color-4" d="m90.56,47.08h-19.26c-2.28,5.3-5.09,11.07-8.51,17.01h20.28c3.05-6.07,5.52-11.83,7.48-17.01h0Z" fill="url(#color-4)"/>
+    <path class="color-1" d="m88.87,124.13c4.06,0,7.45-2.85,8.3-6.65h-16.6c.84,3.8,4.24,6.65,8.3,6.65Z" fill="url(#color-1)"/>
+    <path class="color-1" d="m97.38,87.86c0-4.7-3.81-8.51-8.51-8.51s-8.51,3.81-8.51,8.51v7.06h17.01v-7.06Z" fill="url(#color-1)"/>
+    <path class="color-1" d="m97.38,104.54h-17.01v3.32h17.01v-3.32Z" fill="url(#color-1)"/>
+    <path class="color-3" d="m71.08,94.93c-2.65,0-4.81,2.17-4.81,4.81s2.16,4.81,4.81,4.81h9.29v-9.61h-9.29Z" fill="url(#color-3)"/>
+    <path class="color-3" d="m106.67,104.54c2.64,0,4.81-2.17,4.81-4.81s-2.17-4.81-4.81-4.81h-9.29v9.61h9.29Z" fill="url(#color-3)"/>
+    <path class="color-4" d="m97.38,94.93h-17.01v9.61h17.01v-9.61Z" fill="url(#color-4)"/>
+    <path class="color-1" d="m97.17,117.48h6.86c2.65,0,4.81-2.17,4.81-4.81s-2.16-4.81-4.81-4.81h-6.65v7.76c0,.64-.07,1.26-.21,1.86Z" fill="url(#color-1)"/>
+    <path class="color-1" d="m80.36,107.86h-6.65c-2.64,0-4.81,2.17-4.81,4.81s2.17,4.81,4.81,4.81h6.86c-.13-.6-.21-1.21-.21-1.86v-7.76Z" fill="url(#color-1)"/>
+    <path class="color-4" d="m80.36,115.62c0,.64.07,1.26.21,1.86h16.6c.13-.6.21-1.21.21-1.86v-7.76h-17.01v7.76Z" fill="url(#color-4)"/>
+    <path fill="#ffffff" class="color-5" d="m41.47,68.47h-4.71c-2.04,0-3.7,1.66-3.7,3.7s1.66,3.7,3.7,3.7h4.71c2.04,0,3.7-1.66,3.7-3.7s-1.66-3.7-3.7-3.7Z"/>
+    <path fill="#ffffff" class="color-5" d="m70.45,68.47h-19.32c-2.04,0-3.7,1.66-3.7,3.7s1.66,3.7,3.7,3.7h19.32c2.04,0,3.7-1.66,3.7-3.7s-1.66-3.7-3.7-3.7Z"/>
+    <path fill="#ffffff" class="color-5" d="m141.24,25.32h-19.32c-2.04,0-3.7,1.66-3.7,3.7s1.66,3.7,3.7,3.7h19.32c2.04,0,3.7-1.66,3.7-3.7s-1.66-3.7-3.7-3.7Z"/>
+</svg>

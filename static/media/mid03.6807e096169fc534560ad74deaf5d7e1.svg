@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="bot12" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 185 308">
+  <defs>
+    <style>
+      /* .stroke-width stroke-color-2 {
+        stroke: #ff6836;
+      }
+
+      .stroke-width stroke-color-2, .stroke-width stroke-color-4, .stroke-width stroke-color-4, .stroke-width stroke-color-1 {
+        fill: none;
+        stroke-linecap: round;
+        stroke-width: 1.5px;
+      }
+
+      .stroke-width stroke-color-2, .stroke-width stroke-color-4 {
+        stroke-miterlimit: 10;
+      }
+
+      .stroke-width stroke-color-4, .stroke-width stroke-color-4 {
+        stroke: #2aaeb3;
+      }
+
+      .stroke-width stroke-color-4, .stroke-width stroke-color-1 {
+        stroke-linejoin: round;
+      }
+
+      .color-1 {
+        fill: #ffcf08;
+      }
+
+      .color-2 {
+        fill: #ff6836;
+      }
+
+      .cls-7 {
+        fill: #404272;
+      }
+
+      .color-4 {
+        fill: #2aaeb3;
+      }
+
+      .stroke-width stroke-color-1 {
+        stroke: #ffcf08;
+      } */
+      .stroke-width {
+        stroke-width: 1.3px;
+      }
+
+      .stroke-color-1 {
+        stroke: #ffcf08;
+      }
+
+      .stroke-color-2 {
+        stroke: #ff6836;
+      }
+
+      .stroke-color-3 {
+        stroke: #404272;
+      }
+
+      .stroke-color-4 {
+        stroke: #2aaeb3;
+      }
+    </style>
+    <linearGradient id="color-1" gradientTransform="rotate(90)">
+      <stop offset="0%" stop-color="#ffcf08" />
+      <stop offset="100%" stop-color="#ffcf08" />
+      <stop offset="100%" stop-color="white" />
+    </linearGradient>
+    <linearGradient id="color-2" gradientTransform="rotate(90)">
+      <stop offset="0%" stop-color="#ff6836" />
+      <stop offset="100%" stop-color="#ff6836" />
+      <stop offset="100%" stop-color="white" />
+    </linearGradient>
+    <linearGradient id="color-3" gradientTransform="rotate(90)">
+      <stop offset="0%" stop-color="#404272" />
+      <stop offset="100%" stop-color="#404272" />
+      <stop offset="100%" stop-color="white" />
+    </linearGradient>
+    <linearGradient id="color-4" gradientTransform="rotate(90)">
+      <stop offset="0%" stop-color="#2aaeb3" />
+      <stop offset="100%" stop-color="#2aaeb3" />
+      <stop offset="100%" stop-color="white" />
+    </linearGradient>
+  </defs>
+  <path class="color-1" d="m146.43,246.91c4.18,0,7.58-3.39,7.58-7.58s-3.39-7.58-7.58-7.58-7.58,3.39-7.58,7.58,3.39,7.58,7.58,7.58Z" fill="url(#color-1)"/>
+  <path class="color-1" d="m137.1,137.88c4.18,0,7.58-3.39,7.58-7.58s-3.39-7.58-7.58-7.58-7.58,3.39-7.58,7.58,3.39,7.58,7.58,7.58Z" fill="url(#color-1)"/>
+  <path class="color-4" d="m48.61,137.88c4.18,0,7.58-3.39,7.58-7.58s-3.39-7.58-7.58-7.58-7.58,3.39-7.58,7.58,3.39,7.58,7.58,7.58Z" fill="url(#color-4)"/>
+  <path class="color-2" d="m93.19,71.49h-.37c-2.42,0-4.38,1.96-4.38,4.38v36.91c0,2.42,1.96,4.38,4.38,4.38h.37c2.42,0,4.38-1.96,4.38-4.38v-36.91c0-2.42-1.96-4.38-4.38-4.38Z" fill="url(#color-2)"/>
+  <path stroke-linejoin="round" stroke-linecap="round" class="stroke-width stroke-color-4" d="m93.01,76.33v36.19" fill="none"/>
+  <path class="color-1" d="m116.32,78.95c-1.49,0-2.84.55-3.88,1.45-1.04-.9-2.4-1.45-3.88-1.45s-2.84.55-3.88,1.45c-1.04-.9-2.4-1.45-3.88-1.45s-2.84.55-3.88,1.45c-1.04-.9-2.4-1.45-3.88-1.45s-2.84.55-3.88,1.45c-1.04-.9-2.4-1.45-3.88-1.45s-2.84.55-3.88,1.45c-1.04-.9-2.4-1.45-3.88-1.45s-2.84.55-3.88,1.45c-1.04-.9-2.4-1.45-3.88-1.45s-2.84.55-3.88,1.45c-1.04-.9-2.4-1.45-3.88-1.45-3.28,0-5.93,2.66-5.93,5.93s2.66,5.93,5.93,5.93c1.49,0,2.84-.55,3.88-1.45,1.04.9,2.4,1.45,3.88,1.45s2.84-.55,3.88-1.45c1.04.9,2.4,1.45,3.88,1.45s2.84-.55,3.88-1.45c1.04.9,2.4,1.45,3.88,1.45s2.84-.55,3.88-1.45c1.04.9,2.4,1.45,3.88,1.45s2.84-.55,3.88-1.45c1.04.9,2.4,1.45,3.88,1.45s2.84-.55,3.88-1.45c1.04.9,2.4,1.45,3.88,1.45s2.84-.55,3.88-1.45c1.04.9,2.4,1.45,3.88,1.45,3.28,0,5.93-2.66,5.93-5.93s-2.66-5.93-5.93-5.93Z" fill="url(#color-1)"/>
+  <path class="color-2" d="m65.81,88.63c2.15,0,3.88-1.68,3.88-3.75s-1.74-3.75-3.88-3.75-3.88,1.68-3.88,3.75,1.74,3.75,3.88,3.75Z" fill="url(#color-2)"/>
+  <path class="color-2" d="m73.58,88.63c2.15,0,3.88-1.68,3.88-3.75s-1.74-3.75-3.88-3.75-3.88,1.68-3.88,3.75,1.74,3.75,3.88,3.75Z" fill="url(#color-2)"/>
+  <path class="color-2" d="m81.34,88.63c2.15,0,3.88-1.68,3.88-3.75s-1.74-3.75-3.88-3.75-3.88,1.68-3.88,3.75,1.74,3.75,3.88,3.75Z" fill="url(#color-2)"/>
+  <path class="color-2" d="m89.11,88.63c2.15,0,3.88-1.68,3.88-3.75s-1.74-3.75-3.88-3.75-3.88,1.68-3.88,3.75,1.74,3.75,3.88,3.75Z" fill="url(#color-2)"/>
+  <path class="color-2" d="m96.89,88.63c2.15,0,3.88-1.68,3.88-3.75s-1.74-3.75-3.88-3.75-3.88,1.68-3.88,3.75,1.74,3.75,3.88,3.75Z" fill="url(#color-2)"/>
+  <path class="color-4" d="m104.66,88.63c2.15,0,3.88-1.68,3.88-3.75s-1.74-3.75-3.88-3.75-3.88,1.68-3.88,3.75,1.74,3.75,3.88,3.75Z" fill="url(#color-4)"/>
+  <path class="color-2" d="m112.43,88.63c2.15,0,3.88-1.68,3.88-3.75s-1.74-3.75-3.88-3.75-3.88,1.68-3.88,3.75,1.74,3.75,3.88,3.75Z" fill="url(#color-2)"/>
+  <path stroke-linejoin="round" stroke-linecap="round" class="stroke-width stroke-color-4" d="m61.1,84.89h57.51" fill="none"/>
+  <path class="color-4" d="m59.97,86.26c.76,0,1.38-.62,1.38-1.38s-.62-1.38-1.38-1.38-1.38.62-1.38,1.38.62,1.38,1.38,1.38Z" fill="url(#color-4)"/>
+  <path class="color-4" d="m93.05,77.24c.76,0,1.38-.62,1.38-1.38s-.62-1.38-1.38-1.38-1.38.62-1.38,1.38.62,1.38,1.38,1.38Z" fill="url(#color-4)"/>
+  <path class="color-4" d="m93.05,113.9c.76,0,1.38-.62,1.38-1.38s-.62-1.38-1.38-1.38-1.38.62-1.38,1.38.62,1.38,1.38,1.38Z" fill="url(#color-4)"/>
+  <path class="color-4" d="m118.61,86.23c.76,0,1.38-.62,1.38-1.38s-.62-1.38-1.38-1.38-1.38.62-1.38,1.38.62,1.38,1.38,1.38Z" fill="url(#color-4)"/>
+  <path stroke-linejoin="round" stroke-linecap="round" class="stroke-width stroke-color-1" d="m65.56,39.55v7.89h-11.52v8.02h11.39v5.94h-11.39v7.23h11.39v5.83H19.78v17.4-17.4" fill="none"/>
+  <path class="color-1" d="m58.59,185.99v13.86l13.94-13.86h-13.94Z" fill="url(#color-1)"/>
+  <path class="color-1" d="m129.84,209.2v-13.85l-13.95,13.85h13.95Z" fill="url(#color-1)"/>
+  <path stroke-linejoin="round" stroke-linecap="round" class="stroke-width stroke-color-4" d="m38.32,10.56h14.46" fill="none"/>
+  <path stroke-linejoin="round" stroke-linecap="round" class="stroke-width stroke-color-4" d="m38.32,15.39h14.46" fill="none"/>
+  <path stroke-linejoin="round" stroke-linecap="round" class="stroke-width stroke-color-4" d="m38.32,20.22h14.46" fill="none"/>
+  <path stroke-linejoin="round" stroke-linecap="round" class="stroke-width stroke-color-4" d="m38.32,25.05h14.46" fill="none"/>
+  <path stroke-linejoin="round" stroke-linecap="round" class="stroke-width stroke-color-4" d="m38.32,29.88h14.46" fill="none"/>
+  <path stroke-linejoin="round" stroke-linecap="round" class="stroke-width stroke-color-4" d="m38.32,34.71h14.46" fill="none"/>
+  <path stroke-linejoin="round" stroke-linecap="round" class="stroke-width stroke-color-4" d="m132.44,10.56h14.46" fill="none"/>
+  <path stroke-linejoin="round" stroke-linecap="round" class="stroke-width stroke-color-4" d="m132.44,15.39h14.46" fill="none"/>
+  <path stroke-linejoin="round" stroke-linecap="round" class="stroke-width stroke-color-4" d="m132.44,20.22h14.46" fill="none"/>
+  <path stroke-linejoin="round" stroke-linecap="round" class="stroke-width stroke-color-4" d="m132.44,25.05h14.46" fill="none"/>
+  <path stroke-linejoin="round" stroke-linecap="round" class="stroke-width stroke-color-4" d="m132.44,29.88h14.46" fill="none"/>
+  <path stroke-linejoin="round" stroke-linecap="round" class="stroke-width stroke-color-4" d="m132.44,34.71h14.46" fill="none"/>
+  <path stroke-linejoin="round" stroke-linecap="round" class="stroke-width stroke-color-2" d="m125.11,85.22h12.4" fill="none"/>
+  <path stroke-linejoin="round" stroke-linecap="round" class="stroke-width stroke-color-2" d="m125.11,93.13h12.4" fill="none"/>
+  <path stroke-linejoin="round" stroke-linecap="round" class="stroke-width stroke-color-2" d="m125.11,89.18h12.4" fill="none"/>
+  <path stroke-linejoin="round" stroke-linecap="round" class="stroke-width stroke-color-2" d="m125.11,97.08h12.4" fill="none"/>
+  <path stroke-linejoin="round" stroke-linecap="round" class="stroke-width stroke-color-4" d="m67.68,155.9h14.46" fill="none"/>
+  <path stroke-linejoin="round" stroke-linecap="round" class="stroke-width stroke-color-4" d="m67.68,152.4h14.46" fill="none"/>
+  <path stroke-linejoin="round" stroke-linecap="round" class="stroke-width stroke-color-4" d="m67.68,159.4h14.46" fill="none"/>
+  <path stroke-linejoin="round" stroke-linecap="round" class="stroke-width stroke-color-4" d="m67.68,162.9h14.46" fill="none"/>
+  <path stroke-linejoin="round" stroke-linecap="round" class="stroke-width stroke-color-4" d="m67.68,166.4h14.46" fill="none"/>
+  <path stroke-linejoin="round" stroke-linecap="round" class="stroke-width stroke-color-2" d="m125.11,101.03h12.4" fill="none"/>
+  <path stroke-linejoin="round" stroke-linecap="round" class="stroke-width stroke-color-2" d="m125.11,104.98h12.4" fill="none"/>
+  <path stroke-linejoin="round" stroke-linecap="round" class="stroke-width stroke-color-2" d="m125.11,108.94h12.4" fill="none"/>
+  <path stroke-linejoin="round" stroke-linecap="round" class="stroke-width stroke-color-2" d="m125.11,112.89h12.4" fill="none"/>
+  <path stroke-linejoin="round" stroke-linecap="round" class="stroke-width stroke-color-2" d="m125.11,116.84h12.4" fill="none"/>
+  <path stroke-linejoin="round" stroke-linecap="round" class="stroke-width stroke-color-4" d="m71.47,137.91l6.89,6.89" fill="none"/>
+  <path stroke-linejoin="round" stroke-linecap="round" class="stroke-width stroke-color-4" d="m78.36,137.91l-6.89,6.89" fill="none"/>
+  <path stroke-linejoin="round" stroke-linecap="round" class="stroke-width stroke-color-4" d="m62.36,274.18l6.89,6.89" fill="none"/>
+  <path stroke-linejoin="round" stroke-linecap="round" class="stroke-width stroke-color-4" d="m69.25,274.18l-6.89,6.89" fill="none"/>
+  <path stroke-linejoin="round" stroke-linecap="round" class="stroke-width stroke-color-1" d="m96.57,140.13h28.94s4.31-.12,4.31,4.65" fill="none"/>
+  <path stroke-linejoin="round" stroke-linecap="round" class="stroke-width stroke-color-4" d="m129.18,146.62l-11.89,22.39" fill="none"/>
+  <path stroke-linejoin="round" stroke-linecap="round" class="stroke-width stroke-color-4" d="m132.87,146.62l-11.88,22.39" fill="none"/>
+  <path stroke-linejoin="round" stroke-linecap="round" class="stroke-width stroke-color-4" d="m125.48,146.62l-11.89,22.39" fill="none"/>
+  <path stroke-linejoin="round" stroke-linecap="round" class="stroke-width stroke-color-1" d="m117.98,132.39l-17.5,36.97" fill="none"/>
+  <path stroke-linejoin="round" stroke-linecap="round" class="stroke-width stroke-color-4" d="m12.74,96.32h14.46" fill="none"/>
+  <path stroke-linejoin="round" stroke-linecap="round" class="stroke-width stroke-color-4" d="m12.74,100.75h14.46" fill="none"/>
+  <path stroke-linejoin="round" stroke-linecap="round" class="stroke-width stroke-color-4" d="m12.74,105.18h14.46" fill="none"/>
+  <path stroke-linejoin="round" stroke-linecap="round" class="stroke-width stroke-color-4" d="m12.74,109.61h14.46" fill="none"/>
+  <path stroke-linejoin="round" stroke-linecap="round" class="stroke-width stroke-color-4" d="m12.74,114.04h14.46" fill="none"/>
+  <path stroke-linejoin="round" stroke-linecap="round" class="stroke-width stroke-color-4" d="m12.74,118.46h14.46" fill="none"/>
+  <path stroke-linejoin="round" stroke-linecap="round" class="stroke-width stroke-color-4" d="m12.74,122.89h14.46" fill="none"/>
+  <path stroke-linejoin="round" stroke-linecap="round" class="stroke-width stroke-color-1" d="m19.97,127.03v174.72" fill="none"/>
+  <path class="color-2" d="m19.97,184.19c4.18,0,7.58-3.39,7.58-7.58s-3.39-7.58-7.58-7.58-7.58,3.39-7.58,7.58,3.39,7.58,7.58,7.58Z" fill="url(#color-2)"/>
+  <path class="color-1" d="m19.97,159.86c4.18,0,7.58-3.39,7.58-7.58s-3.39-7.58-7.58-7.58-7.58,3.39-7.58,7.58,3.39,7.58,7.58,7.58Z" fill="url(#color-1)"/>
+  <path class="color-3" d="m19.97,208.52c4.18,0,7.58-3.39,7.58-7.58s-3.39-7.58-7.58-7.58-7.58,3.39-7.58,7.58,3.39,7.58,7.58,7.58Z" fill="url(#color-3)"/>
+  <path stroke-linejoin="round" stroke-linecap="round" class="stroke-width stroke-color-4" d="m157.79,96.32h14.46" fill="none"/>
+  <path stroke-linejoin="round" stroke-linecap="round" class="stroke-width stroke-color-4" d="m157.79,100.75h14.46" fill="none"/>
+  <path stroke-linejoin="round" stroke-linecap="round" class="stroke-width stroke-color-4" d="m157.79,105.18h14.46" fill="none"/>
+  <path stroke-linejoin="round" stroke-linecap="round" class="stroke-width stroke-color-4" d="m157.79,109.61h14.46" fill="none"/>
+  <path stroke-linejoin="round" stroke-linecap="round" class="stroke-width stroke-color-4" d="m157.79,114.04h14.46" fill="none"/>
+  <path stroke-linejoin="round" stroke-linecap="round" class="stroke-width stroke-color-4" d="m157.79,118.46h14.46" fill="none"/>
+  <path stroke-linejoin="round" stroke-linecap="round" class="stroke-width stroke-color-4" d="m157.79,122.89h14.46" fill="none"/>
+  <path stroke-linejoin="round" stroke-linecap="round" class="stroke-width stroke-color-1" d="m165.03,126.69v174.72" fill="none"/>
+  <path class="color-4" d="m165.03,184.19c4.18,0,7.58-3.39,7.58-7.58s-3.39-7.58-7.58-7.58-7.58,3.39-7.58,7.58,3.39,7.58,7.58,7.58Z" fill="url(#color-4)"/>
+  <path class="color-1" d="m165.03,159.86c4.18,0,7.58-3.39,7.58-7.58s-3.39-7.58-7.58-7.58-7.58,3.39-7.58,7.58,3.39,7.58,7.58,7.58Z" fill="url(#color-1)"/>
+  <path class="color-1" d="m165.03,208.52c4.18,0,7.58-3.39,7.58-7.58s-3.39-7.58-7.58-7.58-7.58,3.39-7.58,7.58,3.39,7.58,7.58,7.58Z" fill="url(#color-1)"/>
+  <path stroke-linejoin="round" stroke-linecap="round" class="stroke-width stroke-color-1" d="m143.72,120.46H43.48"/>
+  <path stroke-linejoin="round" stroke-linecap="round" class="stroke-width stroke-color-1" d="m46.67,253.57h38.26"/>
+  <path stroke-linejoin="round" stroke-linecap="round" class="stroke-width stroke-color-1" d="m100.38,284.93h38.27"/>
+  <path stroke-linejoin="round" stroke-linecap="round" class="stroke-width stroke-color-1" d="m51.42,262.03h28.76"/>
+  <path stroke-linejoin="round" stroke-linecap="round" class="stroke-width stroke-color-1" d="m121.36,278.87h12.86"/>
+  <path class="color-3" d="m93.05,248.94c4.18,0,7.58-3.39,7.58-7.58s-3.39-7.58-7.58-7.58-7.58,3.39-7.58,7.58,3.39,7.58,7.58,7.58Z" fill="url(#color-3)"/>
+  <path class="color-1" d="m42.67,246.91c4.18,0,7.58-3.39,7.58-7.58s-3.39-7.58-7.58-7.58-7.58,3.39-7.58,7.58,3.39,7.58,7.58,7.58Z" fill="url(#color-1)"/>
+  <path stroke-linejoin="round" stroke-linecap="round" class="stroke-width stroke-color-1" d="m120.6,243.94l-17.08,16.87h34.17l-17.09-16.87Z" fill="none"/>
+  <path stroke-linejoin="round" stroke-linecap="round" class="stroke-width stroke-color-1" d="m137.69,260.81l-17.05,15.53-17.09-15.56" fill="none"/>
+  <path stroke-linejoin="round" stroke-linecap="round" class="stroke-width stroke-color-1" d="m91.02,133.27h-32.2v16.17h32.2v-16.17Z" fill="none"/>
+  <path stroke-linejoin="round" stroke-linecap="round" class="stroke-width stroke-color-1" d="m81.9,269.54h-32.2v16.17h32.2v-16.17Z" fill="none"/>
+  <path stroke-linejoin="round" stroke-linecap="round" class="stroke-width stroke-color-1" d="m48.9,132.39v5.92h-7.52v10.49h7.52v5.74h-7.52v12.31h7.52v5.52h-7.52v11.19h7.52v5.38h-7.52v12.06h7.52v5.79h-7.52v12.31h7.52v5.74h-7.52v14.51h25.1" fill="none"/>
+  <path stroke-linejoin="round" stroke-linecap="round" class="stroke-width stroke-color-1" d="m137.32,132.39v5.92h7.52v10.49h-7.52v5.74h7.52v12.31h-7.52v5.52h7.52v11.19h-7.52v5.38h7.52v12.06h-7.52v5.79h7.52v12.31h-7.52v5.74h7.52v14.51h-25.1" fill="none"/>
+  <path stroke-linejoin="round" stroke-linecap="round" class="stroke-width stroke-color-4" d="m98.3,183.36l-31.99,48.93" fill="none"/>
+  <path stroke-linejoin="round" stroke-linecap="round" class="stroke-width stroke-color-4" d="m102.81,183.45l-31.99,48.93" fill="none"/>
+  <path stroke-linejoin="round" stroke-linecap="round" class="stroke-width stroke-color-4" d="m93.78,183.3l-31.99,48.93" fill="none"/>
+  <path stroke-linejoin="round" stroke-linecap="round" class="stroke-width stroke-color-4" d="m103.68,203.81l19.19,28.48" fill="none"/>
+  <path stroke-linejoin="round" stroke-linecap="round" class="stroke-width stroke-color-4" d="m99.07,203.81l19.2,28.48"/>
+  <path stroke-linejoin="round" stroke-linecap="round" class="stroke-width stroke-color-4" d="m108.28,203.81l19.19,28.48"/>
+  <path stroke-linejoin="round" stroke-linecap="round" class="stroke-width stroke-color-1" d="m71.83,194.66h11.63" fill="none"/>
+  <path stroke-linejoin="round" stroke-linecap="round" class="stroke-width stroke-color-1" d="m97.81,194.66h17.63" fill="none"/>
+  <path stroke-linejoin="round" stroke-linecap="round" class="stroke-width stroke-color-1" d="m71.83,200.4h8.03" fill="none"/>
+  <path stroke-linejoin="round" stroke-linecap="round" class="stroke-width stroke-color-1" d="m94.36,200.4h21.09" fill="none"/>
+  <path stroke-linejoin="round" stroke-linecap="round" class="stroke-width stroke-color-1" d="m85.26,215.52h16.92" fill="none"/>
+  <path stroke-linejoin="round" stroke-linecap="round" class="stroke-width stroke-color-1" d="m83.27,221.83h20.9" fill="none"/>
+  <path stroke-linejoin="round" stroke-linecap="round" class="stroke-width stroke-color-1" d="m63.8,209.22h10.04" fill="none"/>
+  <path stroke-linejoin="round" stroke-linecap="round" class="stroke-width stroke-color-1" d="m89.05,209.22h9.34" fill="none"/>
+  <path stroke-linejoin="round" stroke-linecap="round" class="stroke-width stroke-color-1" d="m93.72,203.15v27" fill="none"/>
+  <path stroke-linejoin="round" stroke-linecap="round" class="stroke-width stroke-color-1" d="m65.81,245.1v23.8" fill="none"/>
+  <path stroke-linejoin="round" stroke-linecap="round" class="stroke-width stroke-color-1" d="m120.96,261.12v23.8" fill="none"/>
+  <path stroke-linejoin="round" stroke-linecap="round" class="stroke-width stroke-color-4" d="m85.48,10.56h14.36" fill="none"/>
+  <path stroke-linejoin="round" stroke-linecap="round" class="stroke-width stroke-color-4" d="m85.48,14.79h14.36" fill="none"/>
+  <path stroke-linejoin="round" stroke-linecap="round" class="stroke-width stroke-color-4" d="m85.48,18.62h14.36" fill="none"/>
+  <path stroke-linejoin="round" stroke-linecap="round" class="stroke-width stroke-color-4" d="m85.38,26.66h14.36" fill="none"/>
+  <path stroke-linejoin="round" stroke-linecap="round" class="stroke-width stroke-color-4" d="m85.38,30.68h14.36" fill="none"/>
+  <path stroke-linejoin="round" stroke-linecap="round" class="stroke-width stroke-color-4" d="m85.38,34.71h14.36" fill="none"/>
+  <path stroke-linejoin="round" stroke-linecap="round" class="stroke-width stroke-color-1" d="m67.23,22.56h50.76" fill="none"/>
+  <path stroke-linejoin="round" stroke-linecap="round" class="stroke-width stroke-color-1" d="m139.67,38.88H45.55" fill="none"/>
+  <path stroke-linejoin="round" stroke-linecap="round" class="stroke-width stroke-color-1" d="m45.55,6.25h94.12" fill="none"/>
+  <path stroke-linejoin="round" stroke-linecap="round" class="stroke-width stroke-color-1" d="m165.03,74.45v17.4-17.4Zm0,0h-45.64v-5.83h11.39v-7.23h-11.39v-5.94h11.39v-8.02h-11.53v-7.89" fill="none"/>
+  <path stroke-linejoin="round" stroke-linecap="round" class="stroke-width stroke-color-1" d="m54.51,169.35h39.09" fill="none"/>
+  <path class="color-2" d="m130.57,173.58H55.51v7.58h75.06v-7.58Z" fill="url(#color-2)"/>
+  <path stroke-linejoin="round" stroke-linecap="round" class="stroke-width stroke-color-4" d="m59.59,177.37h65.59" fill="none"/>
+  <path class="color-4" d="m59.59,178.75c.76,0,1.38-.62,1.38-1.38s-.62-1.38-1.38-1.38-1.38.62-1.38,1.38.62,1.38,1.38,1.38Z" fill="url(#color-4)"/>
+  <path class="color-4" d="m126.5,178.73c.76,0,1.38-.62,1.38-1.38s-.62-1.38-1.38-1.38-1.38.62-1.38,1.38.62,1.38,1.38,1.38Z" fill="url(#color-4)"/>
+</svg>
