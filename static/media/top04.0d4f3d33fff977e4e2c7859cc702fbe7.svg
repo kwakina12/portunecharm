@@ -2,39 +2,6 @@
 <svg id="top04" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 179 137">
   <defs>
     <style>
-      <!-- .color-4, .cls-2 {
-        fill: #ffcf08;
-      }
-      .cls-3, .cls-4 {
-        fill: #ff6836;
-      }
-      .cls-5 {
-        fill: #404272;
-      }
-      .color-2 {
-        fill: #2aaeb3;
-      }
-      .cls-7 {
-        stroke: #ff6836;
-      }
-      .cls-7, .stroke-width stroke-linecap stroke-color-4 {
-        stroke-linecap: round;
-        stroke-linejoin: round;
-      }
-      .cls-7, .stroke-width stroke-linecap stroke-color-4, .cls-9 {
-        fill: none;
-        stroke-width: .5px;
-      }
-      .stroke-width stroke-linecap stroke-color-4, .cls-9 {
-        stroke: #ffcf08;
-      }
-      .cls-4, .cls-2 {
-        fill-rule: evenodd;
-      }
-      .cls-9 {
-        stroke-miterlimit: 10;
-      } -->
-
       .stroke-width {
         stroke-width: .5px;
       }
