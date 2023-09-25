@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="middle10" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 185 308">
+  <defs>
+  <style>
+      .stroke-width {
+        stroke-width: .5px;
+      }
+
+      .stroke-linecap{
+        stroke-linecap: round;
+      }
+
+      .stroke-color-1 {
+        stroke: #ffcf08;
+      }
+
+      .stroke-color-2 {
+        stroke: #fea39c;
+      }
+
+      .stroke-color-3 {
+        stroke:#327eed;
+      }
+
+      .stroke-color-4 {
+        stroke: #2032ac;
+      }      
+    </style>
+    <linearGradient id="color-1" gradientTransform="rotate(90)">
+      <stop offset="0%" stop-color="#ffcf08" />
+      <stop offset="100%" stop-color="#ffcf08" />
+      <stop offset="100%" stop-color="white" />
+    </linearGradient>
+    <linearGradient id="color-2" gradientTransform="rotate(90)">
+      <stop offset="0%" stop-color="#fea39c" />
+      <stop offset="100%" stop-color="#fea39c" />
+      <stop offset="100%" stop-color="white" />
+    </linearGradient>
+    <linearGradient id="color-3" gradientTransform="rotate(90)">
+      <stop offset="0%" stop-color="#327eed" />
+      <stop offset="100%" stop-color="#327eed" />
+      <stop offset="100%" stop-color="white" />
+    </linearGradient>   
+    <linearGradient id="color-4" gradientTransform="rotate(90)">
+      <stop offset="0%" stop-color="#2032ac" />
+      <stop offset="100%" stop-color="#2032ac" />
+      <stop offset="100%" stop-color="white" />
+    </linearGradient>    
+ </defs>
+  <path class="stroke-width stroke-linecap stroke-color-1" d="m47.22,92.67h11.59" fill="none"/>
+  <path class="stroke-width stroke-linecap stroke-color-1" d="m47.22,100.29h11.59" fill="none"/>
+  <path class="stroke-width stroke-linecap stroke-color-1" d="m46.83,123.83h11.58" fill="none"/>
+  <path class="stroke-width stroke-linecap stroke-color-1" d="m46.83,131.46h11.58" fill="none"/>
+  <path class="stroke-width stroke-linecap stroke-color-1" d="m125.8,123.83h11.58" fill="none"/>
+  <path class="stroke-width stroke-linecap stroke-color-1" d="m125.8,131.46h11.58" fill="none"/>
+  <path class="stroke-width stroke-linecap stroke-color-3" d="m119.24,161.15h11.58" fill="none"/>
+  <path class="stroke-width stroke-linecap stroke-color-1" d="m119.24,168.78h11.58" fill="none"/>
+  <path class="stroke-width stroke-linecap stroke-color-1" d="m125.12,92.67h11.58" fill="none"/>
+  <path class="stroke-width stroke-linecap stroke-color-1" d="m125.12,100.29h11.58" fill="none"/>
+  <path class="stroke-width stroke-linecap stroke-color-1" d="m81.08,51.64h21.82" fill="none"/>
+  <path class="stroke-width stroke-linecap stroke-color-1" d="m81.08,64.25h21.82" fill="none"/>
+  <path class="stroke-width stroke-linecap stroke-color-1" d="m64.8,96.48h54.38" fill="none"/>
+  <path class="stroke-width stroke-linecap stroke-color-1" d="m46.45,185.43h93.01" fill="none"/>
+  <path class="stroke-width stroke-linecap stroke-color-3" d="m46.38,191.9h92.29" fill="none"/>
+  <path class="stroke-width stroke-linecap stroke-color-1" d="m64.5,128.06h55.42" fill="none"/>
+  <path class="stroke-width stroke-linecap stroke-color-1" d="m158.26,63.49s-2.31-18.51,11.23-18.48c0,0,4.66.49,3.71,5.04-1.77,8.5-18.6,4.68-19.83-28.78" fill="none"/>
+  <path class="stroke-width stroke-linecap stroke-color-1" d="m26.99,63.6s2.06-18.62-11.48-18.6c0,0-4.66.49-3.71,5.04,1.77,8.5,18.6,4.68,19.83-28.78" fill="none"/>
+  <path class="stroke-width stroke-linecap stroke-color-1" d="m40.24,117.75c-15.31-.98-15.17,6.68-15.17,6.68,0,7.83,8.59,7.62,8.59,7.62h37.52c8,0,7.08,5.08,7.08,5.08,0,5.23-8.83,5.37-8.83,5.37h-31.27c-5.95,0-6.08,3.54-6.08,3.54,0,3.8,4.88,3.93,4.88,3.93h51.19s9.54-.51,9.54,5.81c0,5.25,10.81,5.04,10.81,5.04h32.12c8.1,0,7.61,5.01,7.61,5.01.37,6.41-7.77,6-7.77,6h-59.81c-16.83,0-15.82,11.53-15.82,11.53,0,14.25,17.94,12.39,17.94,12.39h26.39s9.77-.92,7.96,7.85" fill="none"/>
+  <path class="stroke-width stroke-linecap stroke-color-1" d="m71.81,156.14s18.7-22.44,41.43,0" fill="none"/>
+  <path class="stroke-width stroke-linecap stroke-color-1" d="m127.87,198.28s3.53,55.75,11.61,66.58c8.08,10.83,15.72-13.57,4.03-12.83-13.15.83,3.77,42.12,3.77,42.12" fill="none"/>
+  <path class="stroke-width stroke-linecap stroke-color-1" d="m57.86,198.28s-3.53,55.75-11.61,66.58c-8.08,10.83-16.04-11.63-4.03-12.83,12.01-1.2-3.77,42.12-3.77,42.12" fill="none"/>
+  <path class="stroke-width stroke-linecap stroke-color-1" d="m117.02,213.81s2.81,47.93,9.25,57.23c6.44,9.31,13.37-8.93,3.45-9.45-9.62-.51,2.76,34.63,2.76,34.63" fill="none"/>
+  <path class="stroke-width stroke-linecap stroke-color-1" d="m68.61,213.81s-2.84,47.93-9.35,57.23c-6.51,9.31-12.92-10-3.25-11.03,9.68-1.03-3.03,36.2-3.03,36.2" fill="none"/>
+  <path class="stroke-width stroke-linecap stroke-color-1" d="m113.25,238.83l27.96-.31s10.49-.24,10.49-8.17c0,0,.24-7.13-9.46-7.13h-19.48s-9.8,1.24-9.8-6.37-9.43-6.87-9.43-6.87c0,0-18.36.82-17.28,9.7" fill="none"/>
+  <path class="stroke-width stroke-linecap stroke-color-1" d="m75.04,277.13h-6.3s-4.95-.05-4.95-6.97c0,0-.6-6.6,6.96-6.6h32.95s7.22-.48,7.22-7.25c0,0,1.01-9.1-9.07-9.1s-16-.25-15.5,4.29" fill="none"/>
+  <path class="stroke-width stroke-linecap stroke-color-1" d="m95.17,112.1s1.46-9.61-5.48-9.61h-15.99s-6.26-.03-6.26-6.08c0,0-.54-6.29,7.42-6.29h9.05s6.5.04,6.5-5.51c0,0,.6-5.62-6.14-5.62h-4.99s-5.09.93-5.09-7.94" fill="none"/>
+  <path class="stroke-width stroke-linecap stroke-color-1" d="m45.53,198.42h93.39" fill="none"/>
+  <path class="stroke-width stroke-linecap stroke-color-1" d="m53.9,161.15h11.58" fill="none"/>
+  <path class="stroke-width stroke-linecap stroke-color-1" d="m53.9,168.78h11.58" fill="none"/>
+  <path class="color-3" d="m71.56,171.55h.01v-13.16h-.01c.18-2.7,1.65-3.49,1.65-3.49h-1.71c-7.05,0-6.64,3.51-6.64,3.51v13.12s-.4,3.52,6.64,3.52h1.71s-1.45-.8-1.65-3.49h0Z" fill="url(#color-1)"/>
+  <path class="color-3" d="m41.4,86.4h-1.71s1.51.8,1.68,3.52v13.12c0,2.72-1.68,3.51-1.68,3.51h1.71c6.71,0,6.58-3.48,6.58-3.48v-13.15s.46-3.52-6.58-3.52Z" fill="url(#color-1)"/>
+  <path class="color-3" d="m107.74,67.54v-17.81c.18-2.7,1.65-3.49,1.65-3.49h-1.71c-6.7,0-6.66,3.17-6.64,3.49h-.01v17.82h.01s-.37,3.51,6.64,3.51h1.71s-1.46-.8-1.65-3.52Z" fill="url(#color-1)"/>
+  <path class="color-3" d="m106.73,134.28v-13.16c0-2.67,1.74-3.51,1.74-3.51h-1.71c-7.05,0-6.64,3.51-6.64,3.51v13.16s-.46,3.49,6.58,3.49h1.71s-1.68-.78-1.68-3.49Z" fill="url(#color-1)"/>
+  <path class="color-3" d="m47.58,121.08s.46-3.52-6.58-3.52h-1.71s1.51.8,1.68,3.52v13.12c-.18,2.71-1.68,3.51-1.68,3.51h1.71c6.75,0,6.58-3.48,6.58-3.48v-13.15Z" fill="url(#color-1)"/>
+  <path class="color-3" d="m84.21,121.13s.4-3.52-6.64-3.52h-1.71s1.47.8,1.65,3.52h.04v13.15c0,2.68-1.68,3.48-1.68,3.48h1.71c7.05,0,6.58-3.48,6.58-3.48v-13.15h.06Z" fill="url(#color-1)"/>
+  <path class="color-3" d="m143.41,134.24v-13.16c0-2.68,1.68-3.49,1.68-3.49h-1.71c-6.93,0-6.58,3.49-6.58,3.49v13.16s-.28,3.49,6.58,3.49h1.71s-1.68-.78-1.68-3.49Z" fill="url(#color-1)"/>
+  <path class="color-3" d="m120.05,171.53v-13.12s.4-3.52-6.64-3.52h-1.71s1.46.8,1.65,3.51h-.01v13.16h.01c-.19,2.68-1.65,3.48-1.65,3.48h1.71c7.05,0,6.64-3.51,6.64-3.51Z" fill="url(#color-1)"/>
+  <path class="color-3" d="m142.74,103.04v-13.12c.18-2.71,1.65-3.51,1.65-3.51h-1.71c-6.58,0-6.58,3.51-6.58,3.51h.04v13.12s-.46,3.52,6.58,3.52h1.71s-1.68-.73-1.68-3.52Z" fill="url(#color-1)"/>
+  <path class="color-3" d="m114.78,271.04h-40.8s-1.88-.18-1.88,1.61c0,1.29,1.15,4.68-1.12,4.68h40.8s1.88.21,1.88-1.61c0-1.29-1.15-4.68,1.12-4.68Z" fill="url(#color-1)"/>
+  <path class="color-3" d="m92.41,171.85c-3.65,0-6.61-2.82-6.61-6.29v-8c.07.45.79,1.71,6.61,1.71,3.65,0,6.61,2.82,6.61,6.29s-2.96,6.29-6.61,6.29Z" fill="url(#color-1)"/>
+  <path class="color-3" d="m92.69,265.13c-3.65,0-6.61-2.82-6.61-6.29v-8c.07.45.79,1.71,6.61,1.71,3.65,0,6.61,2.82,6.61,6.29s-2.96,6.29-6.61,6.29Z" fill="url(#color-1)"/>
+  <path class="color-3" d="m153.66,9.84c0,3.95-3.04,4.74-3.14,4.77H34.52c-.1-.03-3.14-.81-3.14-4.77v4.77h0v10.72s.12-4.35,3.06-4.43h116.13c2.94.08,3.07,4.43,3.07,4.43v-10.72h0v-4.77h.02Z" fill="url(#color-1)"/>
+  <path class="color-3" d="m27.18,66.21v-4.87c0,2.24-2.16,2.48-4.5,2.48s-2.12,2.38-2.12,2.38c0,8.47-3.21,11.28-5.04,12.25-.37.2-1.02.44-1.41.44l-2.16.22c1.04,0,1.79,1.38,1.87,2.16.07.87-.31,1.33.07,2.84.25.98,1.33,1.47,2.42,1.23,2.18-.48,3.89-1.77,3.89-1.77,7.39-6.09,6.98-17.37,6.98-17.37h0Z" fill="url(#color-1)"/>
+  <path class="color-3" d="m173.33,76.77l-2.16-.22c-.39,0-1.04-.24-1.41-.44-1.83-.97-5.04-3.79-5.04-12.25,0-.52-.15-2.23-2.12-2.23-2.34,0-4.5-.24-4.5-2.48v4.71h-.01s-.4,11.28,7,17.37c0,0,1.52,1.07,3.7,1.55,1.09.24,2.2-.08,2.61-1.01.32-.72-.23-2.07-.11-2.94.15-1.18,1.01-2.05,2.05-2.05Z" fill="url(#color-1)"/>
+  <path class="color-3" d="m172.5,295.07s1.08,2.13-1.54,2.13-4.96-1.28-4.96.96l-1.04-3.09h7.53Z" fill="url(#color-1)"/>
+  <path class="color-3" d="m20.43,295.07s-.51,2.35-2.14,2.36c-2.59.02-4.88-2.08-6.61.28l1.2-2.63h7.55Z" fill="url(#color-1)"/>
+  <path class="color-3" d="m97.48,28.78s62.71,4.18,57.37,75.32c0,0-2.84,35.19-14,76.11-7.94,29.13,31.66,114.85,31.66,114.85h-7.56s-33.13-75.15-25.65-112.99c0,0,9.58-38.71,9.83-85.1.29-53.91-51.64-68.2-51.64-68.2h0Z" fill="url(#color-1)"/>
+  <path class="color-3" d="m87.9,28.78s-62.71,4.18-57.37,75.32c0,0,2.84,35.19,14,76.11,7.94,29.13-31.66,114.85-31.66,114.85h7.56s33.13-75.15,25.65-112.99c0,0-9.58-38.71-9.83-85.1-.29-53.91,51.63-68.2,51.63-68.2h0Z" fill="url(#color-1)"/>
+  <path class="stroke-width stroke-linecap stroke-color-1" d="m84.89,29.7s7.16-2.45,15.84,0" fill="none"/>
+  <path class="color-3" d="m117.29,212.51v-11.44c0,3.91-2.48,4.98-3.03,5.17h-42.89c-.12-.03-3.14-.9-3.14-5.2v5.2h0v11.12s.13-4.8,3.12-4.83h42.97c2.84.19,2.98,4.82,2.98,4.82v-4.83h-.01,0Z" fill="url(#color-1)"/>
+  <path class="color-4" d="m54.71,171.53v-13.12s.4-3.52-6.64-3.52h-1.71s1.46.8,1.65,3.51h-.01v13.16h.01c-.19,2.68-1.65,3.48-1.65,3.48h1.71c7.05,0,6.64-3.51,6.64-3.51Z" fill="url(#color-2)"/>
+  <path class="color-4" d="m64.44,134.24v-13.16c0-2.69,1.74-3.49,1.74-3.49h-1.71c-6.56,0-6.64,3.35-6.64,3.49v13.16s-.46,3.49,6.58,3.49h1.71s-1.68-.82-1.68-3.49Z" fill="url(#color-2)"/>
+  <path class="color-4" d="m125.87,103.04v-13.12h.06s.4-3.52-6.64-3.52h-1.71s1.47.8,1.65,3.52h.04v13.12h-.04c-.18,2.71-1.65,3.51-1.65,3.51h1.71c7.05,0,6.64-3.51,6.64-3.51h-.06Z" fill="url(#color-2)"/>
+  <path class="color-4" d="m115.53,238.64h-42.36c-.32.02-1.81.17-1.81,1.61,0,1.29,1.15,4.68-1.12,4.68h42.39c.37-.03,1.79-.21,1.79-1.61,0-1.29-1.15-4.68,1.12-4.68Z" fill="url(#color-2)"/>
+  <path class="color-4" d="m92.41,86.58c-3.65,0-6.61-2.82-6.61-6.29v-8c.07.45.79,1.71,6.61,1.71,3.65,0,6.61,2.82,6.61,6.29s-2.96,6.29-6.61,6.29Z" fill="url(#color-2)"/>
+  <path class="color-1" d="m136.89,171.55h.01v-13.16h-.01c.18-2.7,1.65-3.49,1.65-3.49h-1.71c-7.05,0-6.64,3.51-6.64,3.51v13.12s-.4,3.52,6.64,3.52h1.71s-1.45-.8-1.65-3.49h0Z" fill="url(#color-3)"/>
+  <path class="color-1" d="m92.69,232.73c-3.65,0-6.61-2.82-6.61-6.29v-8c.07.45.79,1.71,6.61,1.71,3.65,0,6.61,2.82,6.61,6.29s-2.96,6.29-6.61,6.29Z" fill="url(#color-3)"/>
+  <path class="color-1" d="m100.59,141c-4.17,0-5.1-3.21-5.18-3.51v-27.37c0,2-2.16,2.22-4.5,2.22s-2.12,2.12-2.12,2.13v23.03c-.04,3.35-4.81,3.5-4.81,3.5h16.61Z" fill="url(#color-3)"/>
+  <path class="color-2" d="m64.88,103.04h-.04v-13.12h.04c.18-2.71,1.65-3.51,1.65-3.51h-1.71c-7.05,0-6.64,3.51-6.64,3.51h.06v13.12h-.06s-.4,3.52,6.64,3.52h1.71s-1.47-.8-1.65-3.52Z" fill="url(#color-4)"/>
+  <path class="color-2" d="m82.55,49.73h-.01c.02-.31.05-3.49-6.64-3.49h-1.71s1.45.8,1.65,3.5v17.81c-.18,2.71-1.65,3.51-1.65,3.51h1.71c7.02,0,6.65-3.48,6.64-3.51h.01v-17.82Z" fill="url(#color-4)"/>
+  <path class="color-2" d="m119.96,117.57h-1.71s1.68.71,1.68,3.51v13.16c-.18,2.75-1.68,3.48-1.68,3.48h1.71c6.58,0,6.58-3.48,6.58-3.48v-13.16s.46-3.51-6.58-3.51Z" fill="url(#color-4)"/>
+</svg>
